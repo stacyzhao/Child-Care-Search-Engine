@@ -43,7 +43,7 @@ with open('childcare.csv') as childcare:
 def user_menu():
     print("What would you like to find out?")
     user_choice = int(input("\n \
-        (1) Search for a spot by age \n \
+        (1) Search for spots by age \n \
         (2) Search by postal code \n \
         (3) Search if day care subsidy is available \n \
         (4) Update a location \n "))
@@ -96,10 +96,9 @@ def print_result(results):
         #     print("\n\n")
 
 
-# Doesnt work format issue
 def postal_code():
     postal = input("What is your postal code? \n").upper()
-    cur.execute("SELECT LOC_NAME, STR_NO, STREET, PHONE, \
+    cur.execute("SELECT LOC_NAME, STR_NO, STREET, PHONE \
         FROM childcare WHERE PCODE = '{}';".format(postal))
     return print_result(cur.fetchall())
 
@@ -111,7 +110,6 @@ def subsidy():
     return print_result(cur.fetchall())
 
 
-# Doesnt work format issue
 def update():
     loc_id = input("What is the location ID?")
     print("What woud you like to update?")
@@ -119,11 +117,9 @@ def update():
     number = input("Number: \n")
     postal = input("Postal Code: \n").upper()
 
-    cur.execute("UPDATE childcare SET LOC_NAME = '{}';".format(location), "\
-    PHONE = '{}';".format(number), "PCODE = '{}';".format(postal)
-    WHERE "LOC_ID = '{}';".format(loc_id))
+    cur.execute("UPDATE childcare SET LOC_NAME = '{}', PHONE = '{}', \
+        PCODE = '{}' WHERE LOC_ID = '{}';".format(location, number, postal, loc_id))
 
-    print(cur.fetchone())
 
 
 user_menu()
@@ -134,6 +130,9 @@ user_menu()
 cur.close()
 
 conn.close()
+
+
+
 
 # print(cur.fetchall())
 # cur.execute("SELECT * FROM childcare WHERE street LIKE '%Ave%'")
