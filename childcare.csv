@@ -1,0 +1,95 @@
+LOC_ID,LOC_NAME,AUSPICE,STR_NO,STREET,UNIT,PCODE,ward,PHONE,bldg_type,bldgname,IGSPACE,TGSPACE,PGSPACE,KGSPACE,SGSPACE,TOTSPACE,SUBSIDY,GC_GEOID,LONGITUDE,LATITUDE,run_date
+1013,Lakeshore Community Child Care Centre,Non Profit Agency,101,SEVENTH ST,,M8V 3B5,6,416-394-7601,Public Elementary School,Seventh Street Public School,0,20,32,40,60,152,Y,1031242,-79.50463054,43.59991069,20-Apr-16
+1014,Alternative Primary School Parent Group,Non Profit Agency,1100,SPADINA RD,,M5N 2M6,16,416-322-5385,Public Elementary School,North Preparatory Public School,0,0,16,20,45,81,Y,870542,-79.42038828,43.70549092,20-Apr-16
+1015,Cardinal Leger Child Care Centre,Non Profit Agency,600,MORRISH RD,,M1C 4Y1,44,416-287-0578,Catholic Elementary School,Cardinal Leger Catholic School,0,10,16,26,35,87,Y,365821,-79.17571109,43.79310442,20-Apr-16
+1016,George Brown - Richmond Adelaide Child Care Centre,Non Profit Agency,130,ADELAIDE ST W,MEZZANINE LEVEL,M5H 3P5,28,416-415-2453,Other,,10,15,40,0,0,65,Y,10222910,-79.38381243,43.64969099,20-Apr-16
+1017,Woodland Nursery School,Non Profit Agency,1,FIRVALLEY CRT,BOX B,M1L 1N8,35,416-694-1138x151,High Rise Apartment,,0,0,30,0,0,30,N,334543,-79.28102863,43.70295236,20-Apr-16
+1021,Centennial College Progress Campus Child Care Centre,Non Profit Agency,941,PROGRESS AVE,,M1G 3T8,38,416-289-5000x2110,Community College/University,Centennial College Of Applied Arts & Technology,10,20,16,0,0,46,Y,13503978,-79.22702962,43.78527327,20-Apr-16
+1029,Air-O-Down Child Care Centre,Non Profit Agency,7,HAWKSDALE RD,,M3K 1W3,9,416-633-2014,Public High School,Downsview Secondary School,10,15,24,0,0,49,Y,525550,-79.47966088,43.73040435,20-Apr-16
+1031,Cedarbrae Day Nurseries (Greencrest),Commercial Agency,20,GREENCREST CIRCT,,M1G 1B8,43,416-431-2504,High Rise Apartment,Greencrest Property,0,0,16,12,18,46,Y,340155,-79.22343125,43.75836953,20-Apr-16
+1036,A B C  Day Nursery,Commercial Agency,145,MARLEE AVE,,M6B 3H3,15,416-789-5011,High Rise Apartment,,10,15,24,20,25,94,Y,67882,-79.44103039,43.70326335,20-Apr-16
+1037,Tiago Avenue Community Child Care,Non Profit Agency,145,TIAGO AVE,,M4B 2A6,31,416-285-5644,Public Elementary School,Victoria Park Public School,0,0,21,0,20,41,Y,3259557,-79.29815396,43.71269778,20-Apr-16
+1041,Ledbury Park Child Care Program,Non Profit Agency,95,FALKIRK ST,,M5M 4K1,16,416-782-2539,Public Elementary School,Ledbury Park Public School,0,0,24,39,45,108,Y,7110840,-79.42732589,43.72739907,20-Apr-16
+1044,Alderwood Action After School,Non Profit Agency,544,HORNER AVE,,M8W 2C2,6,416-259-7738,Public Elementary School,Sir Adam Beck School,0,15,32,44,90,181,Y,6735862,-79.54816511,43.60161044,20-Apr-16
+1045,Children's Village #1 Day Care Centre,Commercial Agency,1050,MARKHAM RD,,M1H 2Y7,38,416-438-3355,High Rise Apartment,,10,10,32,12,30,94,Y,6576197,-79.23157073,43.77437348,20-Apr-16
+1046,Ferncliff Daycare And After School Group,Non Profit Agency,128,FERN AVE,,M6R 1K3,14,416-588-1463,Public Elementary School,Ferncliff Public School,0,0,32,44,72,148,Y,8007871,-79.4461161,43.64518889,20-Apr-16
+1055,Balmy Beach Community Day Care,Non Profit Agency,14,PINE AVE,ROOM 107,M4E 1L6,32,416-698-5668,Public Elementary School,Balmy Beach Public School,0,0,24,30,50,104,Y,7667200,-79.28982694,43.67643591,20-Apr-16
+1059,Mimico Day Care Centre,Commercial Agency,46,MIMICO AVE,,M8V 1R1,6,416-255-4748,Commercial Building,Memorial Hall 1916-1918,0,14,24,0,0,38,N,7560936,-79.49150464,43.6135977,20-Apr-16
+1060,Braeburn Woods Day Care Centre,Non Profit Agency,15,TANDRIDGE CRES,,M9W 2N8,2,416-745-9472,Public Elementary School,Braeburn Junior School,0,10,16,20,30,76,Y,1035925,-79.5488671,43.72803842,20-Apr-16
+1065,Child's Nest Infant Day Care Centre,Non Profit Agency,121,COSBURN AVE,,M4J 2L1,29,416-421-6984,House,,20,20,0,0,0,40,Y,19804,-79.34738971,43.68948449,20-Apr-16
+1067,Martingrove Child Care Centre,Commercial Agency,256,JOHN GARLAND BLVD,131 & 132,M9V 1N8,1,416-742-1812,House,,0,15,24,10,15,64,Y,10144867,-79.59096139,43.73426956,20-Apr-16
+1070,Discovery Place Child Care Centre,Commercial Agency,22,TUXEDO CRT,,M1G 3S3,38,416-439-0521,Purpose Built,,10,20,48,20,45,143,Y,14258143,-79.22964267,43.78054307,20-Apr-16
+1072,Carefree Preschool,Commercial Agency,370,DIXON RD,,M9R 1T2,2,416-244-5529,High Rise Apartment,,10,15,48,0,30,103,Y,6125248,-79.55615774,43.69591518,20-Apr-16
+1079,Eastside Child Care Centre,Non Profit Agency,20,WALDOCK ST,,M1E 2E5,43,416-282-9998,Public Elementary School,Eastview Public School,0,10,16,20,0,46,Y,395203,-79.19133848,43.75907127,20-Apr-16
+1082,Macaulay Child Development - Regent Street,Non Profit Agency,48,REGENT ST,,M6N 3N9,12,416-769-1253,Purpose Built,,10,10,24,0,0,44,Y,71048,-79.4700873,43.68107214,20-Apr-16
+1083,Lori Gardens Centre For Early Learning,Commercial Agency,2405,FINCH AVE W,,M9M 2X2,7,416-743-1222x221,High Rise Apartment,,10,15,38,12,25,100,Y,10340955,-79.5440321,43.75062129,20-Apr-16
+1086,Network Preschool - Bethany,Non Profit Agency,123,COSBURN AVE,,M4J 2L1,29,416-421-6984,House,,0,10,32,0,15,57,Y,19805,-79.34727006,43.68949692,20-Apr-16
+1091,Eastside Club,Non Profit Agency,100,GALLOWAY RD,,M1E 1W7,43,416-281-0262x207,Community/Recreation Centre,,0,0,0,0,45,45,Y,336705,-79.19334169,43.75743706,20-Apr-16
+1094,Arbor Glen Community Child Care Centre,Non Profit Agency,55,FRESHMEADOW DR,,M2H 3H6,24,416-497-4040,Public Elementary School,Arbor Glen Public School,0,0,24,20,30,74,Y,3107754,-79.35571268,43.809495,20-Apr-16
+1095,Frankland Day Care Centre,Non Profit Agency,816,LOGAN AVE,,M4K 3E1,30,416-463-1413,Public Elementary School,Frankland Community School,0,0,0,20,50,70,Y,7570431,-79.34993745,43.67713734,20-Apr-16
+1098,Early Adventures Nursery School & Child Care,Commercial Agency,200,MELROSE ST,,M8Y 1B7,6,416-251-5151,Public Elementary School,George R Gauld Public School,0,10,16,26,27,79,Y,1018182,-79.49852269,43.62064567,20-Apr-16
+1101,Beatty Buddies Day Care,Non Profit Agency,55,WOODINGTON AVE,,M4C 3J6,31,416-467-8687,Public Elementary School,Earl Beatty Public School,0,15,40,26,45,126,Y,6624483,-79.32156885,43.68602662,20-Apr-16
+1103,Selwyn Community Child Care Centre,Non Profit Agency,1,SELWYN AVE,,M4B 3J9,31,416-285-9730,Public Elementary School,Selwyn Public School,0,0,22,0,23,45,Y,3259532,-79.30632915,43.70844824,20-Apr-16
+1104,Mandi Day Care,Non Profit Agency,30,BARRHEAD CRES,,M9W 3Z7,2,416-749-8110,Public School (Closed),Mississauga Private School/ Rexdale (Closed),10,15,16,0,30,71,Y,986007,-79.56655549,43.71932182,20-Apr-16
+1107,Educare Kindergarten - Rathburn,Commercial Agency,18,FOUR SEASONS PL,,M9B 6E7,3,416-620-0072,Office Building,Four Seasons Place,0,10,24,0,30,64,Y,13972296,-79.56271632,43.64692004,20-Apr-16
+1111,Rolph Road Day Care,Non Profit Agency,31,ROLPH RD,,M4G 3M5,26,416-487-5862,Public Elementary School,Rolph Road Public School,0,0,16,26,30,72,Y,3244674,-79.36625464,43.69979217,20-Apr-16
+1115,Trimbee Early Learning & Child Care Centre,Public (City Operated) Agency,30,DENARDA ST,,M6M 5C3,11,416-392-3705,High Rise Apartment,Trimbee Court,10,10,0,0,0,20,Y,57080,-79.49250429,43.68924906,20-Apr-16
+1116,Guildwood Child Care,Commercial Agency,3969,KINGSTON RD,,M1J 3H8,43,416-261-4476,High Rise Apartment,,10,20,24,12,15,81,Y,3484510,-79.20334136,43.75149073,20-Apr-16
+1123,Ernie Boccia Creative Child Day Care,Commercial Agency,1,NORTHWESTERN AVE,,M6M 2J7,12,416-653-6305,Other,Harold And Grace Baker Centre,10,20,16,0,0,46,Y,69387,-79.46978959,43.69794532,20-Apr-16
+1125,First Stage - Burnhamthorpe,Non Profit Agency,500,THE EAST MALL,,M9B 2C4,3,416-394-7534,Public High School,Burnhamthorpe Collegiate Institute,10,15,16,0,0,41,Y,6765660,-79.56184169,43.64962968,20-Apr-16
+1127,Fairbank Memorial Day Care Centre,Non Profit Agency,555,HARVIE AVE,,M6E 4M2,17,416-656-8675,Public Elementary School,Fairbank Memorial,0,0,16,10,30,56,Y,62504,-79.4554057,43.69170324,20-Apr-16
+1129,First Stage - West Humber,Non Profit Agency,1675,MARTIN GROVE RD,,M9V 3S3,1,416-394-7515,Public High School,West Humber Collegiate Institute,10,15,16,0,0,41,Y,10747541,-79.5867087,43.73093099,20-Apr-16
+1130,Red Apple Day Care (Overlea),Non Profit Agency,135,OVERLEA BLVD,,M3C 1B3,26,416-429-5437,Public High School,Marc Garneau Collegiate Institute,10,10,16,0,0,36,Y,10750672,-79.33497117,43.70898428,20-Apr-16
+1135,Fraser School Community Day Care,Non Profit Agency,79,MANNING AVE,,M6J 2K6,19,416-603-7372,Public Elementary School,Charles G. Fraser Public School,0,10,16,20,15,61,Y,837099,-79.40948687,43.64853867,20-Apr-16
+1137,Golf Road School Child Care Centre,Non Profit Agency,730,SCARBOROUGH GOLF CLUB RD,,M1G 1H7,38,416-289-1061,Public Elementary School,Golf Road Junior Public School,0,10,16,20,30,76,Y,383209,-79.21697343,43.76366692,20-Apr-16
+1138,McKee McKids Enrichment Centre,Non Profit Agency,35,CHURCH AVE,,M2N 6X6,23,416-222-1414,Public Elementary School,McKee Public School,0,0,24,78,90,192,Y,13973429,-79.41105951,43.77411646,20-Apr-16
+1140,Leaside Day Care Centre,Non Profit Agency,206,LAIRD DR,,M4G 3W4,26,416-487-5862,Other,,20,35,44,0,0,99,Y,27258,-79.36420251,43.71109919,20-Apr-16
+1141,Gold Circle Early Childhood Day Care Centre,Non Profit Agency,25,POYNTER DR,,M9R 1K8,4,416-241-2000,Public Elementary School,Westway Junior Public School,0,15,24,20,30,89,Y,1024346,-79.5489966,43.6908307,20-Apr-16
+1148,Park Lawn Preschool,Non Profit Agency,71,BALLACAINE DR,,M8Y 4B6,5,416-236-2974,Public Elementary School,Park Lawn Junior And Middle School,0,0,24,40,60,124,Y,985525,-79.49645019,43.63771518,20-Apr-16
+1150,George Harvey Child Care Centre,Non Profit Agency,1700,KEELE ST,,M6M 3W5,12,416-658-9244,Public High School,George Harvey Collegiate Institute,10,15,16,0,0,41,Y,8152704,-79.47369919,43.68454651,20-Apr-16
+1157,Children's Circle Of St. Barnabas,Non Profit Agency,361,DANFORTH AVE,,M4K 1P1,30,416-461-5151,Place of Worship,St. Barnabas Anglican Church,10,15,56,20,60,161,Y,14210230,-79.35233178,43.67727944,20-Apr-16
+1160,Morningside Children's Centre,Commercial Agency,292,MORNINGSIDE AVE,,M1E 3E7,43,416-282-9956,House,,0,15,24,0,0,39,Y,7017610,-79.18793863,43.77216292,20-Apr-16
+1167,McNicoll Avenue Child Care Program,Non Profit Agency,155,MCNICOLL AVE,,M2H 2C1,24,416-499-9743,Public School (Closed),McNicoll Avenue Public School,10,15,24,0,0,49,Y,30033326,-79.35808222,43.79893404,20-Apr-16
+1169,N.Y.A.D. Guildwood,Non Profit Agency,225,LIVINGSTON RD,,M1E 1L8,43,416-261-6540,Public Elementary School,Guildwood Junior Public School,0,0,16,26,30,72,Y,4166113,-79.19998986,43.75082968,20-Apr-16
+1170,Arpi Nursery School,Commercial Agency,39,CARL HALL RD,,M3K 2E2,9,416-781-1620,Industrial Building,,10,15,32,20,60,137,Y,30026125,-79.47793719,43.74698117,20-Apr-16
+1174,Bonaventure Child Care Centre,Non Profit Agency,295,DUFFERIN ST,,M6K 3G2,14,416-588-4318,High Rise Apartment,,10,25,32,0,0,67,Y,13501671,-79.427308,43.64004992,20-Apr-16
+1180,Children's Primary,Non Profit Agency,177,BEVERLEY ST,,M5T 1Y7,20,416-782-8504,Place of Worship,Chinese Presbyterian Church,0,0,32,12,45,89,N,771736,-79.39425109,43.65557777,20-Apr-16
+1182,Happy Day Child Care Centre,Commercial Agency,676,JANE ST,,M6N 4A7,11,416-528-1469,Purpose Built,,0,0,24,12,20,56,Y,9446372,-79.49278831,43.66845829,20-Apr-16
+1190,Humewood House Infant Centre,Non Profit Agency,40,HUMEWOOD DR,,M6C 2W4,21,416-651-5657x225,House,Humewood House,10,0,0,0,0,10,Y,63900,-79.42738985,43.68418415,20-Apr-16
+1192,N'Sheemaehn,Non Profit Agency,1255,MILITARY TRAIL,,M1C 1A3,44,416-287-7624,Purpose Built,University Of Toronto Scarborough Campus,10,10,24,10,0,54,Y,30010394,-79.18814514,43.78566054,20-Apr-16
+1193,Childspace 1,Non Profit Agency,50,WOODMOUNT AVE,,M4C 3X9,31,416-425-7763,Catholic Elementary School,St. Brigid's Catholic School,0,0,0,30,47,77,Y,886268,-79.31690251,43.68695754,20-Apr-16
+1194,Royal Day Care Centre,Commercial Agency,1737,WESTON RD,,M9N 1V5,11,416-249-9115,Purpose Built,,0,10,56,0,39,105,Y,76750,-79.51069311,43.69841377,20-Apr-16
+1196,Rosalie Hall Infant/Toddler Centre,Non Profit Agency,3020,LAWRENCE AVE E,,M1P 2T7,38,416-438-6880x237,Other,,26,25,8,0,0,59,Y,11485084,-79.24852584,43.75560029,20-Apr-16
+1200,Alpha Day Care,Non Profit Agency,20,BRANT ST,,M5V 2M1,20,416-368-9735,Public Elementary School,Alpha Alternative Primary School,0,0,0,10,10,20,Y,3948771,-79.39822582,43.64573061,20-Apr-16
+1201,Humewood Day Care Centre,Non Profit Agency,15,CHERRYWOOD AVE,,M6C 2X4,21,416-658-8886,Public Elementary School,Humewood Community School,0,0,24,60,24,108,Y,55237,-79.4280237,43.68664368,20-Apr-16
+1204,Rexdale Day Nursery,Non Profit Agency,925,ALBION RD,,M9V 1A6,1,416-743-5057,Public School (Closed),Thistletown Multi Service Centre,0,0,24,24,25,73,Y,10985943,-79.56258034,43.73547048,20-Apr-16
+1205,Sandbox Day Care Centre,Commercial Agency,15,ORTON PARK RD,,M1G 3G3,43,416-431-3327,High Rise Apartment,,0,10,38,12,28,88,Y,369553,-79.20544822,43.76521124,20-Apr-16
+1207,Humber Bay Child Care Centre,Non Profit Agency,50,CLOVERHILL RD,,M8Y 1T3,5,416-251-8240,Public Elementary School,Etienne Brule Junior Public School,0,15,24,20,45,104,Y,7940034,-79.48968772,43.63562731,20-Apr-16
+1211,Humber Child Development Centre,Non Profit Agency,205,HUMBER COLLEGE BLVD,,M9W 5L7,1,416-675-6622x4484,Community College/University,Humber College Of Applied Arts And Technology,6,20,32,0,0,58,Y,12387605,-79.60683987,43.72916655,20-Apr-16
+1213,Avenue Road Nursery School,Commercial Agency,1498,AVENUE RD,,M5N 2J1,16,416-783-2773,Place of Worship,St. Ansgar Church,0,30,64,0,0,94,Y,11395014,-79.41583347,43.72205828,20-Apr-16
+1216,Roseland Day Care Centre,Non Profit Agency,990,JANE ST,,M6N 4E2,11,416-763-0068,Public Elementary School,Roseland Public School,0,0,16,20,60,96,Y,9584890,-79.49906428,43.68123537,20-Apr-16
+1221,Romero Bears Child Care Centre,Non Profit Agency,99,HUMBER BLVD,,M6N 2H4,11,416-769-1174,Catholic High School,Archbishop Romero Catholic School,10,10,16,0,0,36,Y,2917611,-79.48079682,43.68033287,20-Apr-16
+1225,Humber College Day Care Centre,Non Profit Agency,205,HUMBER COLLEGE BLVD,,M9W 5L7,1,416-675-5073,Community College/University,Humber College Of Applied Arts And Technology,10,20,24,0,0,54,Y,12387605,-79.60683987,43.72916655,20-Apr-16
+1229,Lescon Learners Child Care,Non Profit Agency,34,LESCON RD,,M2J 2G6,33,416-499-7325,Public Elementary School,Lescon Public School,0,10,24,20,27,81,Y,536699,-79.35749461,43.78084349,20-Apr-16
+1231,Childspace 2,Non Profit Agency,690,CARLAW AVE,,M4K 3K9,30,416-469-0560,Catholic Elementary School,Holy Name Catholic School,0,15,24,0,24,63,Y,780044,-79.34728806,43.67735609,20-Apr-16
+1232,Dawes Road Centre For Early Learning,Commercial Agency,391,DAWES RD,,M4B 2E6,31,416-755-8348,Other,,20,20,40,0,0,80,Y,10365077,-79.29675842,43.70177809,20-Apr-16
+1235,Silverstone Learning Centre,Commercial Agency,520,SILVERSTONE DR,,M9V 3L5,1,416-741-0414,Public Elementary School,Melody Village Public School,0,10,24,20,30,84,Y,10154322,-79.59484589,43.73814334,20-Apr-16
+1245,Crescent Town Day Care Centre,Commercial Agency,2,THE MARKET PL,,M4C 5M1,31,416-691-3979,Community/Recreation Centre,,10,25,32,0,30,97,Y,30072981,-79.29234778,43.69574193,20-Apr-16
+1248,Brock Early Learning Centre,Non Profit Agency,93,MARGUERETTA ST,,M6H 3S4,18,416-535-3491,Public Elementary School,Brock Avenue Public School,0,15,32,20,45,112,Y,9780839,-79.43784738,43.65305827,20-Apr-16
+1250,Sunny Faces Day Care Centre - Rivercrest,Non Profit Agency,30,HAREFIELD DR,,M9W 4C9,2,416-744-0778,Public Elementary School,Rivercrest Public School,0,0,16,40,45,101,Y,1005812,-79.56951774,43.72971618,20-Apr-16
+1251,Jubilee Day Care Centre,Commercial Agency,55,EMMETT AVE,,M6M 2E4,11,416-248-1112,High Rise Apartment,,0,15,24,8,23,70,Y,7155198,-79.5034323,43.68864521,20-Apr-16
+1254,Baycrest Child Care Centre,Non Profit Agency,145,BAYCREST AVE,,M6A 1W4,15,416-784-1316,Public Elementary School,Baycrest Public School,0,20,48,39,30,137,Y,487550,-79.44425476,43.72661437,20-Apr-16
+1255,Campus Community Co-Op Day Care Centre Inc,Non Profit Agency,370,HURON ST,,M5S 2G4,20,416-946-0875,Purpose Built,,10,15,24,0,0,49,Y,823546,-79.40072723,43.66458936,20-Apr-16
+1258,Carmelite Day Nursery,Non Profit Agency,108,HARRISON ST,,M6J 2A3,19,416-536-5313,Purpose Built,,16,25,56,32,42,171,Y,10864646,-79.42199419,43.65121289,20-Apr-16
+1261,Silverstone Montessori Day Care,Commercial Agency,350,SILVERSTONE DR,,M9V 3J4,1,416-741-9820,Public Elementary School,Clairville Public School,0,0,16,20,30,66,Y,10558804,-79.59823106,43.74785079,20-Apr-16
+1266,Network Child Care Services - Just Kids Child Care Centre,Non Profit Agency,1695,KEELE ST,,M6M 3W7,12,416-653-9944,Place of Worship,York Memorial Church,0,15,32,20,0,67,Y,8232461,-79.47268724,43.68548019,20-Apr-16
+1267,Plains Road Child Care,Non Profit Agency,520,PLAINS RD,,M4C 2Z1,31,416-421-2273,Catholic Elementary School,Canadian Martyrs Catholic School,10,20,32,0,15,77,Y,7794398,-79.31934185,43.69820851,20-Apr-16
+1271,J.R. Wilcox Day Care Centre,Non Profit Agency,231,AVA RD,,M6C 1X3,21,416-656-1781,Public Elementary School,J.R. Wilcox Community School,0,15,16,52,47,130,Y,51261,-79.43630852,43.69495538,20-Apr-16
+1272,Silverthorn Day Care,Non Profit Agency,2700,EGLINTON AVE W,,M6M 1V1,12,416-653-9702,Office Building,York Civic Centre,10,10,24,0,0,44,Y,8492134,-79.47841238,43.68988424,20-Apr-16
+1278,Sheppard Square Day Nursery,Commercial Agency,5600,SHEPPARD AVE E,,M1B 2L4,42,416-292-3607,High Rise Apartment,Apartment Building,10,30,48,0,30,118,Y,13399814,-79.23634457,43.79501064,20-Apr-16
+1280,Tiny Treasure Day Care Centre,Commercial Agency,627,BURNHAMTHORPE RD,,M9C 2Y9,3,416-622-6443,Place of Worship,Renforth Baptist Church,0,10,48,12,0,70,Y,7515102,-79.57320254,43.64366074,20-Apr-16
+1285,Kingsview Child Care,Commercial Agency,340,DIXON RD,,M9R 1T1,2,416-249-7601,High Rise Apartment,,20,15,40,0,24,99,Y,3587551,-79.55385517,43.69561759,20-Apr-16
+1287,Terry Tan Child Centre (Bloordale),Non Profit Agency,4258,BLOOR ST W,,M9C 1Z7,3,416-621-4822,Place of Worship,Bloordale United Church,0,20,32,0,15,67,Y,5524348,-79.56885561,43.63462796,20-Apr-16
+1288,A & A Child Care Centre,Non Profit Agency,3380,MIDLAND AVE,2ND FLOOR,M1V 5B5,41,416-298-4489,Other,,20,25,48,0,45,138,Y,2834434,-79.29034654,43.80930265,20-Apr-16
+1294,Cottingham Child Care Centre,Non Profit Agency,85,BIRCH AVE,,M4V 1E3,22,416-929-6841,Public Elementary School,Cottingham Public School,0,0,16,10,30,56,Y,772190,-79.39561225,43.68038802,20-Apr-16
+1297,West Hill Centre For Early Learning,Commercial Agency,4010,LAWRENCE AVE E,,M1E 2R4,43,416-283-4294,High Rise Apartment,,10,15,40,0,0,65,Y,354529,-79.19884758,43.76673158,20-Apr-16
